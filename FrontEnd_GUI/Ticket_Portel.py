@@ -12,7 +12,7 @@ def registration():
 
 
 root = Tk()
-root.title("Sign Up To Bank Account")
+root.title("Indian Railway Ticket Reservation Channel")
 root.geometry("500x570")
 root.minsize(500, 570)
 root.maxsize(500, 570)
